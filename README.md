@@ -31,3 +31,6 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
   - ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) 
       - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) 
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) 
+
+
+[![Lucry01111's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucry01111&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucry01111/github-readme-stats#gh-dark-mode-only)
