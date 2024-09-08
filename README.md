@@ -11,18 +11,25 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
 
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,bash,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,bash,latex,js)](https://skillicons.dev)
 - ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assembler&logoColor=white)
 - ![BASIC](https://img.shields.io/badge/BASIC-01579B?style=flat&logoColor=white) 
 - ![Prolog](https://img.shields.io/badge/Prolog-326CE5?style=flat&logoColor=white)
 - ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
+### IDEs and Code Editors
+[![My IDEs](https://skillicons.dev/icons?i=visualstudio,eclipse)](https://skillicons.dev)
+
 ### Databases
 [![My Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### Operating Systems
 [![My OS](https://skillicons.dev/icons?i=windows,linux,debian,kali)](https://skillicons.dev)  
+
+### Applications
+[![My Applications](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+
 
 
 
