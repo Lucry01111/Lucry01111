@@ -29,6 +29,9 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
 
 ### Applications
 [![My Applications](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+- ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obsstudio)
+- ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox)
+
 
 
 
