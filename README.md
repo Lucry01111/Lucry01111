@@ -22,9 +22,7 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
 [![My Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### Operating Systems
-[![My OS](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-  - ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) 
-  - ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)  
+[![My OS](https://skillicons.dev/icons?i=windows,linux,debian,kali)](https://skillicons.dev)  
 
 
 
