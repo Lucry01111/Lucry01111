@@ -12,7 +12,7 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,bash,latex,html,css,js,arduino)](https://skillicons.dev)
-- ![Assembly ARM](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assembler&logoColor=white)
+- ![Assembly ARM](https://img.shields.io/badge/Assembly_ARM-525252?style=flat&logo=assembler&logoColor=white)
 - ![BASIC](https://img.shields.io/badge/BASIC-01579B?style=flat&logoColor=white) 
 - ![Prolog](https://img.shields.io/badge/Prolog-326CE5?style=flat&logoColor=white)
 - ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat&logo=visual-studio&logoColor=white)
