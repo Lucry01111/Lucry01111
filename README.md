@@ -37,7 +37,6 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
 
 
 
-
 [![Lucry01111's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucry01111&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucry01111/github-readme-stats#gh-dark-mode-only)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucry01111&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)
 
