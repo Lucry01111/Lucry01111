@@ -10,13 +10,15 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
   ## 💻 Technical Skills
 
 
-### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,bash,latex,html,css,js,arduino)](https://skillicons.dev)
+### Programming Languages and others
+[![My Skills1](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" alt="Prolog" width="50" height="50" />
+[![My Skills2](https://skillicons.dev/icons?i=java,bash,latex,html,css,js,arduino)](https://skillicons.dev)
 - ![Assembly ARM](https://img.shields.io/badge/Assembly_ARM-525252?style=flat&logo=assembler&logoColor=white)
 - ![BASIC](https://img.shields.io/badge/BASIC-01579B?style=flat&logoColor=white) 
-- ![Prolog](https://img.shields.io/badge/Prolog-326CE5?style=flat&logoColor=white)
-- ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
 
 ### IDEs and Code Editors
 [![My IDEs](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse)](https://skillicons.dev)
