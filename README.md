@@ -15,7 +15,7 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" alt="Prolog" width="50" height="50" />
-[![My Skills2](https://skillicons.dev/icons?i=java,bash,latex,html,css,js,arduino)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=java,bash,latex,html,css,js,arduino,git)](https://skillicons.dev)
 - ![Assembly ARM](https://img.shields.io/badge/Assembly_ARM-525252?style=flat&logo=assembler&logoColor=white)
 - ![BASIC](https://img.shields.io/badge/BASIC-01579B?style=flat&logoColor=white) 
 
