@@ -30,7 +30,7 @@ Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the 
 [![My OS](https://skillicons.dev/icons?i=windows,linux,debian,kali)](https://skillicons.dev)  
 
 ### Applications
-[![My Applications](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![My Applications](https://skillicons.dev/icons?i=notion,figma)](https://skillicons.dev)
 - ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obsstudio)
 - ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox)
 
