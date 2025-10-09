@@ -6,6 +6,8 @@ I began writing small and simple code snippets, which, over time and with more p
 
 Subsequently, I decided to teach myself Python 🐍. This opened my eyes to the vast possibilities that programming offers and made me realize that I wanted to learn and master as many programming languages as possible. Since then, I’ve been dedicated to expanding my skills, exploring new languages and technologies with enthusiasm and curiosity 🚀.
 
+I am currently serving as the webmaster at the university association @roma2lug🐧
+
 
   ## 💻 Technical Skills
 
