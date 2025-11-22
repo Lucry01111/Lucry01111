@@ -19,7 +19,7 @@ I am currently serving as the Webmaster at the university association [@roma2lug
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" alt="Prolog" width="50" height="50" />
 [![My Skills2](https://skillicons.dev/icons?i=java,bash,latex,html,css,js,arduino,git)](https://skillicons.dev)
 - ![Assembly ARM](https://img.shields.io/badge/Assembly_ARM-525252?style=flat&logo=assembler&logoColor=white)
-- ![BASIC](https://img.shields.io/badge/BASIC-01579B?style=flat&logoColor=white) 
+- ![BASIC](https://img.shields.io/badge/BASIC-01579B?style=flat&logoColor=white)
 
 
 ### IDEs and Code Editors
@@ -32,7 +32,7 @@ I am currently serving as the Webmaster at the university association [@roma2lug
 [![My OS](https://skillicons.dev/icons?i=windows,linux,debian,kali)](https://skillicons.dev)  
 
 ### Softwares
-[![My Applications](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![My Applications1](https://skillicons.dev/icons?i=notion,godot)](https://skillicons.dev)
 - ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obsstudio)
 - ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox)
 
